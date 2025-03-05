@@ -180,7 +180,7 @@ sections:
       - url: /images/Untitled.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/Untitled.png
+      - url: /images/linkdin.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg

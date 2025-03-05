@@ -195,7 +195,7 @@ sections:
       - url: /images/images.jpeg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/Instagram_logo_2022.svg.webp
+      - url: /images/Untitled.jpeg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left

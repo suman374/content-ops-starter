@@ -189,7 +189,7 @@ sections:
       - url: /images/whatsapp.jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/telegram.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/images.jpeg

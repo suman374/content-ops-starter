@@ -45,6 +45,13 @@
             "url": "https://www.instagram.com/manoranjan_ghoshal/",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/manoranjan.ghoshal.509",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [

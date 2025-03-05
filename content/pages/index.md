@@ -604,8 +604,9 @@ sections:
       - title: Author-Friendly
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |2+
+           Keep **100% rights** to your work.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image

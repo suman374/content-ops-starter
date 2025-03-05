@@ -7,16 +7,7 @@
     "text": "For authors who seek\n",
     "secondaryLinks": {
         "title": "Contact us :-",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [

@@ -51,7 +51,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: welcome
+      label: welcome!
       color: text-primary
       type: Badge
     elementId: ''

@@ -602,7 +602,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Author-Friendly
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |2+
            Keep **100% rights** to your work.

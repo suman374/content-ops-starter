@@ -67,10 +67,10 @@ sections:
       - type: FeaturedItem
         title: Publish Your Books for Free
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+          Share your stories, knowledge, or research with the world.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

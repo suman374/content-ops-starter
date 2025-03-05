@@ -38,6 +38,13 @@
             "url": "https://x.com/manoranjanghos3",
             "icon": "twitter",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/manoranjan_ghoshal/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [

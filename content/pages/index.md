@@ -177,7 +177,7 @@ sections:
         textAlign: center
   - subtitle: Contact us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Untitled.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg

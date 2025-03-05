@@ -243,7 +243,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: ''
+    text: |
+      Get started Now!
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

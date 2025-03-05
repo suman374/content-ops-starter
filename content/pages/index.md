@@ -289,7 +289,7 @@ sections:
       type: TitleBlock
     subtitle: Section with a video subtitle
     text: |
-      Site under devlopment..
+      Site under devlopment...................
     actions: []
     media:
       title: Title of the video

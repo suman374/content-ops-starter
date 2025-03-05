@@ -183,7 +183,7 @@ sections:
       - url: /images/linkdin.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/quora.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/Untitled.png

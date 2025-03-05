@@ -7,7 +7,7 @@ sections:
       text: Publish your books for free
       color: text-dark
       type: TitleBlock
-    subtitle: To gain popularity and sells
+    subtitle: To gain popularity and sales
     text: >+
       *   Publish Your Books for Free – Share your stories, knowledge, or
       research with the world.

@@ -652,9 +652,9 @@ sections:
       - title: Aspiring Writers
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+
+          People who want to publish but lack funds.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

@@ -186,7 +186,7 @@ sections:
       - url: /images/quora.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/Untitled.png
+      - url: /images/whatsapp.jpeg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

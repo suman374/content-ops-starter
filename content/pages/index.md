@@ -186,8 +186,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: >-
-          /images/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp
+      - url: /images/Untitled.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

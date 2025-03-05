@@ -9,22 +9,11 @@ sections:
       type: TitleBlock
     subtitle: To gain popularity and sales
     text: >+
-      *   Publish Your Books for Free – Share your stories, knowledge, or
-      research with the world.
+
+      Start Your Publishing Journey Today! Upload Your Book & Share Your Story
+      with the World!
 
 
-      *   Reach a Global Audience – Make your books available to readers
-      worldwide.
-
-
-      *   Multiple Formats – Publish in PDF, Doc, DocX  formats.
-
-
-      *   Author-Friendly – Keep 100% rights to your work.
-
-
-      *   Community & Support – Connect with other writers, get feedback, and
-      grow as an author.
 
     actions:
       - label: Get started

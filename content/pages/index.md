@@ -96,7 +96,7 @@ sections:
       - title: ''
         subtitle: ''
         text: |+
-          ## **Reach a Global Audience**
+          ## Reach a Global Audience
 
         image:
           url: /images/icon2.svg

@@ -98,6 +98,11 @@ sections:
         text: |+
           ### Reach a Global Audience
 
+
+
+
+          Make your books available to readers worldwide.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two

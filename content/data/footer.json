@@ -43,6 +43,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Twitter link",
+            "url": "https://x.com/manoranjanghos3",
+            "icon": "twitter",
+            "elementId": ""
         }
     ],
     "legalLinks": [

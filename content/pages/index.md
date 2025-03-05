@@ -192,7 +192,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/images.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
